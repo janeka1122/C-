@@ -5,3 +5,7 @@ This document contains all my documentation and notes while learning C#. I'll st
 
 ### 1.1. Udemy Software developement fundamentals using C#
 
+- "System" is namespace
+- "Console is a class"
+- "Writeline" is a method
+
