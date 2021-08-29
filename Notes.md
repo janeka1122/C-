@@ -9,3 +9,6 @@ This document contains all my documentation and notes while learning C#. I'll st
 - "Console is a class"
 - "Writeline" is a method
 
+![image](https://user-images.githubusercontent.com/76124220/131266687-cd7471b9-3620-48ef-80a7-c24e9c6ae4ff.png)
+
+
